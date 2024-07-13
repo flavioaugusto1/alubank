@@ -75,7 +75,7 @@ class _RecentActivityContent extends StatelessWidget {
           borderRadius: BorderRadius.circular(10),
         ),
         const Padding(
-          padding: EdgeInsets.only(top: 8, bottom: 8),
+          padding: EdgeInsets.only(top: 12, bottom: 12),
           child: ContentDivision(),
         ),
         const Text(
